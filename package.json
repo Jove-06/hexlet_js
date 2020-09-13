@@ -2,7 +2,7 @@
   "name": "hexlet",
   "version": "1.0.0",
   "description": "my first hexlet project",
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/Jove-06/backend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/Jove-06/backend-project-lvl1#readme"
+  "homepage": "https://github.com/Jove-06/backend-project-lvl1#readme",
+  "dependencies": {
+    "file-metadata": "^1.0.0",
+    "fs": "0.0.1-security",
+    "get-file-properties": "^1.0.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.27.0",
+    "require": "^2.4.20"
+  }
 }
