@@ -1,0 +1,11 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "node main.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
